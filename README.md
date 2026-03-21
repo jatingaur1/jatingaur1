@@ -7,7 +7,7 @@ Currently focused on expanding my skills in web and Android development.
 
 ---
 
-## 🚀 Skills  
+## 🚀 Tech stack 
 - **Languages:** Python, C/C++, JavaScript, SQL, Kotlin  
 - **Web Development:** HTML, CSS, React.js, Node.js, Express.js, REST APIs  
 - **Databases:** MySQL, MongoDB, SQLite  
@@ -21,9 +21,6 @@ Currently focused on expanding my skills in web and Android development.
 
 ---
 
-## 🎓 Experience  
-- **Software Developer Intern** – HashedBit Innovation Pvt. Ltd.  
-- **Full Stack Developer Intern** – Ditansource  
 
 ---
 
@@ -36,4 +33,4 @@ Currently focused on expanding my skills in web and Android development.
 ## 🌐 Connect with Me  
 - [LinkedIn](https://linkedin.com/in/jatingaur)  
 - [GitHub](https://github.com/jatingaur1)  
-- 📧 jatingaur2708@gmail.com  
+- [E-mail]jatingaur2708@gmail.com  
