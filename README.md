@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I’m Jatin Gaur 
 
-# 👋 Hi, I’m Jatin Gaur  
+
 
 I’m an IT engineering student with a foundation in Python, C/C++, and JavaScript.  
 Currently focused on expanding my skills in web and Android development.  
