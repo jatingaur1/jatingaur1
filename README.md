@@ -33,4 +33,4 @@ Currently focused on expanding my skills in web and Android development.
 ## 🌐 Connect with Me  
 - [LinkedIn](https://linkedin.com/in/jatingaur)  
 - [GitHub](https://github.com/jatingaur1)  
-- [E-mail]jatingaur2708@gmail.com  
+- jatingaur2708@gmail.com  
