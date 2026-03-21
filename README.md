@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**jatingaur1/jatingaur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Jatin Gaur  
 
-Here are some ideas to get you started:
+I’m an IT engineering student with a foundation in Python, C/C++, and JavaScript.  
+Currently focused on expanding my skills in web and Android development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills  
+- **Languages:** Python, C/C++, JavaScript, SQL, Kotlin  
+- **Web Development:** HTML, CSS, React.js, Node.js, Express.js, REST APIs  
+- **Databases:** MySQL, MongoDB, SQLite  
+- **Tools:** GitHub, VS Code, Google Cloud, Android Studio  
+
+---
+
+## 📂 Projects  
+- [Hotstar Clone](https://github.com/jatingaur1/hotstar-clone) – OTT streaming platform UI built with React.js  
+- [To-Do List App](https://github.com/jatingaur1/Todo) – Simple task manager with add/complete/delete features  
+
+---
+
+## 🎓 Experience  
+- **Software Developer Intern** – HashedBit Innovation Pvt. Ltd.  
+- **Full Stack Developer Intern** – Ditansource  
+
+---
+
+## 📜 Certifications  
+- Google Cloud: Set up a Cloud Network  
+- Google Cloud: Build app with Gemini and Streamlit  
+
+---
+
+## 🌐 Connect with Me  
+- [LinkedIn](https://linkedin.com/in/jatingaur)  
+- [GitHub](https://github.com/jatingaur1)  
+- 📧 jatingaur2708@gmail.com  
