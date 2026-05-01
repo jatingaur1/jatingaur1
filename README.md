@@ -29,7 +29,7 @@ Currently, I’m diving into the exciting worlds of web and Android development,
 ---
 
 ## 📫 How to Reach Me  
-- [LinkedIn](https://linkedin.com/in/jatingaur)  
+- [LinkedIn](https://www.linkedin.com/in/jatin2005gaur)  
 - [GitHub](https://github.com/jatingaur1)  
 - jatingaur2708@gmail.com  
 
