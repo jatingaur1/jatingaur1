@@ -16,7 +16,7 @@ Currently, I’m diving into the exciting worlds of web and Android development,
 - **Languages:** Python, C, C++, JavaScript, SQL, Kotlin  
 - **Web Development:** React.js, Node.js, Express.js, Tailwind CSS  
 - **Mobile Development:** Android Studio, Kotlin  
-- **Databases:** MongoDB, MySQL, SQLite  
+- **Databases:** MongoDB(Basic), MySQL, PostgreSQL SQLite  
 - **Tools & Platforms:** Git, GitHub, VS Code, Google Cloud, Linux  
 
 ---
